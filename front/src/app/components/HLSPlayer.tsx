@@ -86,25 +86,7 @@ const HLSPlayer: React.FC<HLSPlayerProps> = ({ src }) => {
 
   // HLSのセットアップ
   useEffect(() => {
-    let hls: Hls;
-
-    if (videoRef.current) {
-      const video = videoRef.current;
-      if (Hls.isSupported()) {
-        hls = new Hls();
-        hls.loadSource(src);
-        hls.attachMedia(video);
-      } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
-        // HLS support for platforms
-        video.src = src;
-      }
-
-      return () => {
-        if (hls) {
-          hls.destroy();
-        }
-      };
-    }
+    // TODO: implement
   }, [src]);
 
   // 再生時間の取得
