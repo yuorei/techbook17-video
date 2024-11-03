@@ -27,6 +27,7 @@ http://localhost:3000 にアクセスすると、動画配信サイトが表示�
 MinIOの管理画面にアクセスには、http://localhost:9000 にアクセスしてください。
 
 ユーザー名: admin
+
 パスワード: password
 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/44ef36b9-bdc5-487f-ba6a-1383fb367a8b">
