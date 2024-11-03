@@ -47,3 +47,14 @@ publicに選択
 <img width="748" alt="image" src="https://github.com/user-attachments/assets/f043aea2-fad8-48cd-8be7-74b320895911">
 
 この設定を `video`と`thumbnail-image`にも設定します。これで動画を視聴することができます。
+
+TOP画面
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/67c8ace7-0bb7-4b70-be1f-768fc01e4e93">
+
+## お問い合わせ
+
+何かしらの質問や問題点がございましたら、ご連絡いただけると幸いです。
+
+X(Twitter） [@yuorei71](https://x.com/yuorei71)
+
+
